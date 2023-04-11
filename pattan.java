@@ -6,8 +6,6 @@ class Demo{
             for(int j=0;j<5;j++){
                 if(a++%2==0){
                     System.out.print("* ");
-                }else{
-                System.out.print(b++ +" ");
                 }
             }
             System.out.println(" ");
